@@ -1,0 +1,15 @@
+D:\Estudo de Desenvolvimento\CSharp\LerArquivoTXT\bin\Debug\net6.0\LerArquivoTXT.exe
+D:\Estudo de Desenvolvimento\CSharp\LerArquivoTXT\bin\Debug\net6.0\LerArquivoTXT.deps.json
+D:\Estudo de Desenvolvimento\CSharp\LerArquivoTXT\bin\Debug\net6.0\LerArquivoTXT.runtimeconfig.json
+D:\Estudo de Desenvolvimento\CSharp\LerArquivoTXT\bin\Debug\net6.0\LerArquivoTXT.dll
+D:\Estudo de Desenvolvimento\CSharp\LerArquivoTXT\bin\Debug\net6.0\LerArquivoTXT.pdb
+D:\Estudo de Desenvolvimento\CSharp\LerArquivoTXT\obj\Debug\net6.0\LerArquivoTXT.csproj.AssemblyReference.cache
+D:\Estudo de Desenvolvimento\CSharp\LerArquivoTXT\obj\Debug\net6.0\LerArquivoTXT.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estudo de Desenvolvimento\CSharp\LerArquivoTXT\obj\Debug\net6.0\LerArquivoTXT.AssemblyInfoInputs.cache
+D:\Estudo de Desenvolvimento\CSharp\LerArquivoTXT\obj\Debug\net6.0\LerArquivoTXT.AssemblyInfo.cs
+D:\Estudo de Desenvolvimento\CSharp\LerArquivoTXT\obj\Debug\net6.0\LerArquivoTXT.csproj.CoreCompileInputs.cache
+D:\Estudo de Desenvolvimento\CSharp\LerArquivoTXT\obj\Debug\net6.0\LerArquivoTXT.dll
+D:\Estudo de Desenvolvimento\CSharp\LerArquivoTXT\obj\Debug\net6.0\refint\LerArquivoTXT.dll
+D:\Estudo de Desenvolvimento\CSharp\LerArquivoTXT\obj\Debug\net6.0\LerArquivoTXT.pdb
+D:\Estudo de Desenvolvimento\CSharp\LerArquivoTXT\obj\Debug\net6.0\LerArquivoTXT.genruntimeconfig.cache
+D:\Estudo de Desenvolvimento\CSharp\LerArquivoTXT\obj\Debug\net6.0\ref\LerArquivoTXT.dll
